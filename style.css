@@ -13,9 +13,17 @@ body {
     border-radius: 10px;
     padding: 40px;
     padding-right: 60px;
+    padding-top: 10px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);  
     font-family: 'Cinzel', serif;
+    text-align: center;
   }
+
+  label {
+    font-weight: bold;
+    color: #2d1b00; /* optional: rich dark tone for better contrast */
+  }
+  
   
   textarea {
     width: 100%;
